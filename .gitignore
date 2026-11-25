@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.DS_Store
+*.pt
+*.nii
+*.nii.gz
+.ruff_cache/

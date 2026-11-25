@@ -1,0 +1,6 @@
+torch>=2.4
+einops>=0.6
+numpy>=1.24
+nibabel>=5.0
+ema-pytorch>=0.7
+scipy>=1.10
